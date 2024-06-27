@@ -1,7 +1,6 @@
-
-ChatGPT
 Atividade de Estudo de PHP - Curso em Vídeo
 Este repositório contém o código desenvolvido durante uma atividade prática do curso de PHP do Curso em Vídeo.
+![logo]()
 
 Descrição
 Neste exercício, foi implementada uma aplicação simples em PHP para calcular o reajuste de preço de um produto com base em um valor e uma porcentagem fornecidos pelo usuário. O objetivo era praticar os conceitos básicos de PHP e formulários HTML.
@@ -27,5 +26,3 @@ Este projeto é apenas um exercício didático para aprender os fundamentos bás
 
 Autor
 Este exercício foi realizado como parte do curso de PHP do Curso em Vídeo, ministrado pelo professor Gustavo Guanabara.
-
-Para mais informações sobre o Curso em Vídeo e seus cursos, visite Curso em Vídeo.
